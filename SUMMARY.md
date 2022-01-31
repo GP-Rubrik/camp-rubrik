@@ -49,6 +49,7 @@
     * [Create an SLA Domain](nephology/cloud-native-protection/microsoft-365/create-an-sla-domain.md)
     * [Apply an SLA Domain](nephology/cloud-native-protection/microsoft-365/apply-an-sla-domain.md)
     * [Restore an M365 Exchange email](nephology/cloud-native-protection/microsoft-365/restore-an-m365-exchange-email.md)
+    * [Restore a file from Onedrive](nephology/cloud-native-protection/microsoft-365/restore-a-file-from-onedrive.md)
 
 ## Signs, Signals & Codes
 

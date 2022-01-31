@@ -14,7 +14,7 @@ The **Overview** pane provides information regarding the object’s location, th
 
 ![](../../../.gitbook/assets/Calendar.png)
 
-Select a date that has a blue dot by hovering over and then clicking on the blue dot (indicating there are recovery points from this day). All available snapshots are listed. An example screenshot below demonstrates all of the snapshots available for the selected mailbox. Note that the date and number of snapshots may differ from the following image.
+Select a date that has a green dot by hovering over and then clicking on the blue dot (indicating there are recovery points from this day). All available snapshots are listed. An example screenshot below demonstrates all of the snapshots available for the selected mailbox. Note that the date and number of snapshots may differ from the following image.
 
 ![](<../../../.gitbook/assets/Email restore.png>)
 
@@ -58,8 +58,12 @@ Go to **Inbox** and Click on the checkbox in front of the `Weekly digest: Micros
 
 Choose **Restore to original user** and Click on **Recover**.
 
-This may take a few moments. Click on the **Events** icon ![](<../../../.gitbook/assets/Event Icon.png>) in the top left menu of the Rubrik UI to review the notification informing you that the email is restored.
+This may take a few moments. Click on the **Events** icon ![](<../../../.gitbook/assets/Events Ico.png>) in the top left menu of the Rubrik UI to review the notification informing you that the email is restored.
 
 ![](<../../../.gitbook/assets/Events Dash.png>)
 
-On your browser access the Office 365 environment.
+On your browser access the Office 365 test environment, [https://www.office.com](https://www.office.com/?auth=2). Use the credential provided by the Rubrik instructor.
+
+Go to the online **Exchange**, localize the recover folder in your **Mailbox**.
+
+![](<../../../.gitbook/assets/Exchange Online.png>)
