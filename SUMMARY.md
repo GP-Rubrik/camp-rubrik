@@ -43,7 +43,10 @@
 * [CloudOn](nephology/cloudon/README.md)
   * [Launch on Cloud](nephology/cloudon/launch-on-cloud.md)
   * [Cloud Conversion](nephology/cloudon/cloud-conversion.md)
-* [Cloud-Native Protection](nephology/cloud-native-protection.md)
+* [Cloud-Native Protection](nephology/cloud-native-protection/README.md)
+  * [Microsoft 365](nephology/cloud-native-protection/microsoft-365/README.md)
+    * [Setting up a subscription - Rubrik Hosted](nephology/cloud-native-protection/microsoft-365/setting-up-a-subscription-rubrik-hosted.md)
+    * [Create an SLA Domain](nephology/cloud-native-protection/microsoft-365/create-an-sla-domain.md)
 
 ## Signs, Signals & Codes
 
@@ -58,4 +61,3 @@
 * [API Documentation](api-weaving/api-documentation.md)
 * [API Explorer](api-weaving/api-explorer.md)
 * [Use Cases](api-weaving/use-cases.md)
-
