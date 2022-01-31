@@ -2,34 +2,22 @@
 
 To create an SLA Domain:
 
-On the left-hand navigation pane, select **SLA Domains > Local Domains**.
+On the top navigation pane, select **SLA Domains > Create SLA Domain**.
 
-{% hint style="info" %}
-**Trail Map:**
+Click the blue icon.
 
-_Local Domain_ - an SLA Domain that is created on the local Rubrik cluster.
+![](<../../../.gitbook/assets/Screenshot 2022-01-31 at 13.54.35.png>)
 
-_Remote Domain_ - an SLA Domain that was created on a Rubrik cluster other than the local Rubrik cluster. Remote SLA Domains appear on a local Rubrik cluster when the local Rubrik cluster is a replication target.
-{% endhint %}
+Create an SLA Policy for the Cloud Objects that you wold like to protect.
 
-In the upper right-hand corner, click the blue **+** icon.
+![](<../../../.gitbook/assets/Screenshot 2022-01-31 at 13.55.07.png>)
 
-![](../../../.gitbook/assets/image10.png)
+Select **Next** and the same configuration values demonstrated in the following image:
 
-Create an SLA Policy using the same configuration values demonstrated in the following image:
+![](<../../../.gitbook/assets/Screenshot 2022-01-31 at 13.56.07.png>)
 
-![](../../../.gitbook/assets/image11.png)
+Press the **Next** button.
 
-{% hint style="info" %}
-**Trail Map:** Continuous Data Protection enables you to protect your high value applications, running on vSphere, with near-zero RPOs. With CDP, you can recover from local or remote points in time with near zero RPOs for recovery from the latest point in time, or per-second granularity for recovery from historical points in time.
-{% endhint %}
-
-Select **Next** to configure replication and archive in the Remote Settings portion of the SLA Domain.
-
-![](../../../.gitbook/assets/image12.png)
-
-Enable the **Archival** toggle and select `NFS:myarchive` from the dropdown box. Change **Retention On Brik** as 60 days. Note that the arrow keys can be used to fine-tune the amount of time specified. Press the **Next** button.
-
-![](../../../.gitbook/assets/image13.png)
+![](<../../../.gitbook/assets/Screenshot 2022-01-31 at 13.56.27.png>)
 
 Review and then click **Create** to finish.

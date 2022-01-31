@@ -11,4 +11,9 @@ Polaris backs up the data of:
 * SharePoint document librariesa
 * Team channels
 
-Polaris creates a first full snapshot of the Microsoft 365 data. This first full snapshot is a complete backup. Then, Polaris creates incremental snapshots based on the changed information, such as deleted email messages or files.
+In this lab, you will perform the following tasks:
+
+* Setting up a Rubrik Hosted subscription
+* Create a Polaris SLA Domain
+* Apply an SLA Domain to a M365 object
+* Restore a M365 object: email and file

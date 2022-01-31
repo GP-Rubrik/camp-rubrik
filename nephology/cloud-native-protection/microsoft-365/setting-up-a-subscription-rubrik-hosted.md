@@ -6,7 +6,9 @@ On the navigation bar, click **Inventory**.
 
 ![](<../../../.gitbook/assets/Polaris Dash.png>)
 
-The Inventory page appears.
+The **Inventory** page appears.
+
+
 
 ![](../../../.gitbook/assets/Inventory.png)
 
@@ -14,26 +16,28 @@ Subscription is already configured. Click on the Microsoft 365 inventory card.
 
 The Microsoft 365 dashboard appears.
 
-![](<../../../.gitbook/assets/Screenshot 2022-01-31 at 12.14.45.png>)
+![](<../../../.gitbook/assets/M365 Dashbaord - Highlighted.png>)
 
 Click **Add Subscription**.
 
-![](<../../../.gitbook/assets/Screenshot 2022-01-31 at 12.24.27.png>)
+![](<../../../.gitbook/assets/Add Subscription.png>)
 
 Click **Add Subscription**.
 
 Select an Azure region for the data plane and click Next.&#x20;
 
-![](<../../../.gitbook/assets/Screenshot 2022-01-31 at 12.25.11.png>)
+
+
+![](<../../../.gitbook/assets/Screenshot 2022-01-31 at 13.54.35 (1).png>)
 
 Polaris creates the new Microsoft 365 subscription.
 
-Granting Access to the application listed you will subscribe the Rubrik service and you will be able to protect its content.
+Granting Access to the application listed you will subscribe the Rubrik service and you will be able to protect its content. Do not configure a new subscription at this time.
 
 {% hint style="info" %}
 **Important:**
 
-_Do not configure a new subscription. Click on the_ ![](<../../../.gitbook/assets/Screenshot 2022-01-31 at 12.29.17.png>) to close the wizard and abort the configuration.
+_Do not configure a new subscription. Click on the_ ![](../../../.gitbook/assets/Cross.png) to close the wizard and abort the configuration.
 {% endhint %}
 
 {% hint style="info" %}

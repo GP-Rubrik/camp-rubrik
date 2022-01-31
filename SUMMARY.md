@@ -43,10 +43,12 @@
 * [CloudOn](nephology/cloudon/README.md)
   * [Launch on Cloud](nephology/cloudon/launch-on-cloud.md)
   * [Cloud Conversion](nephology/cloudon/cloud-conversion.md)
-* [Cloud-Native Protection](nephology/cloud-native-protection/README.md)
+* [Cloud-Native Protection](nephology/cloud-native-protection.md)
   * [Microsoft 365](nephology/cloud-native-protection/microsoft-365/README.md)
     * [Setting up a subscription - Rubrik Hosted](nephology/cloud-native-protection/microsoft-365/setting-up-a-subscription-rubrik-hosted.md)
     * [Create an SLA Domain](nephology/cloud-native-protection/microsoft-365/create-an-sla-domain.md)
+    * [Apply an SLA Domain](nephology/cloud-native-protection/microsoft-365/apply-an-sla-domain.md)
+    * [Restore an M365 Exchange email](nephology/cloud-native-protection/microsoft-365/restore-an-m365-exchange-email.md)
 
 ## Signs, Signals & Codes
 
